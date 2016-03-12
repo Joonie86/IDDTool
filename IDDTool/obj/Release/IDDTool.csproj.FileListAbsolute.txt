@@ -1,9 +1,0 @@
-C:\Users\gabriel\Documents\Visual Studio 2015\Projects\IDDTool\IDDTool\bin\Release\IDDTool.exe.config
-C:\Users\gabriel\Documents\Visual Studio 2015\Projects\IDDTool\IDDTool\bin\Release\IDDTool.exe
-C:\Users\gabriel\Documents\Visual Studio 2015\Projects\IDDTool\IDDTool\bin\Release\IDDTool.pdb
-C:\Users\gabriel\Documents\Visual Studio 2015\Projects\IDDTool\IDDTool\obj\Release\IDDTool.FrmMain.resources
-C:\Users\gabriel\Documents\Visual Studio 2015\Projects\IDDTool\IDDTool\obj\Release\IDDTool.Properties.Resources.resources
-C:\Users\gabriel\Documents\Visual Studio 2015\Projects\IDDTool\IDDTool\obj\Release\IDDTool.csproj.GenerateResource.Cache
-C:\Users\gabriel\Documents\Visual Studio 2015\Projects\IDDTool\IDDTool\obj\Release\IDDTool.exe
-C:\Users\gabriel\Documents\Visual Studio 2015\Projects\IDDTool\IDDTool\obj\Release\IDDTool.pdb
-C:\Users\gabriel\Documents\Visual Studio 2015\Projects\IDDTool\IDDTool\obj\Release\IDDTool.csprojResolveAssemblyReference.cache
